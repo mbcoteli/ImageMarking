@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\mbcoteli\documents\visual studio 2015\projects\consoleprediction\consoleprediction\main.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/dnn.hpp': No such file or directory
